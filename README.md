@@ -1,3 +1,3 @@
 # Beecrowd Pratice repository
 
-Multiple challenges from beecrowd
+Multiple challenges from beecrowd website.
