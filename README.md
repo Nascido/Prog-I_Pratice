@@ -1,3 +1,3 @@
-# Beecrowd Pratice repository
+# Disciplina de Programação I do curso de Ciências da Computação
 
-Multiple challenges from beecrowd website.
+
